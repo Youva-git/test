@@ -1,24 +1,14 @@
-import logo from './logo.svg';
+import axios from 'axios';
 import './App.css';
+import Listing from './Pages/Listing/Listing';
 
 function App() {
+  // cors policy isn't set to anywhere on the stockx server so this is a workaround
+  axios.defaults.baseURL = "https://cors-anywhere.herokuapp.com/https://www.stockx.com/api";
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <main className="main">
+      <Listing />
+    </main>
   );
 }
 
