@@ -1,5 +1,4 @@
-<a href="https://imgflip.com/gif/1at90y"><img src="https://i.imgflip.com/gif/1at90y.gif"/> </a>  
-
+<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">
 ## Fonctionnalités incluses
 - Recherche par nom.
 - Filtrer par date de sortie.
