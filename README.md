@@ -1,3 +1,5 @@
+<a href="https://imgflip.com/gif/649qfp">via Imgflip</a>
+
 ## Fonctionnalités incluses
 - Recherche par nom.
 - Filtrer par date de sortie.
