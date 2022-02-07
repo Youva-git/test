@@ -1,4 +1,4 @@
-<a href="https://imgflip.com/gif/649qfp"><img src="https://i.imgflip.com/gif/649qfp"/> </a>  
+<a href="https://imgflip.com/gif/649qfp"><img src="https://i.imgflip.com/gif/1at90.gif"/> </a>  
 
 ## Fonctionnalités incluses
 - Recherche par nom.
